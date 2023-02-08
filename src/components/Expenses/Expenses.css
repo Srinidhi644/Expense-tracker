@@ -1,0 +1,10 @@
+.expenses {
+    background-color: black;
+    width: 50rem;
+    max-width: 95%;
+    padding: 1rem;
+    margin: 2rem auto;
+}
+.expenses h3 {
+    color: white;
+}
