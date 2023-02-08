@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Expense tracker is a react application to track the expenditures
+
+Features:
+Add expenses and has graphical visualisation of the expenses
+Responsive web application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
