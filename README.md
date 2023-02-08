@@ -6,6 +6,9 @@ Features:
 Add expenses and has graphical visualisation of the expenses
 Responsive web application
 
+Deployment:
+Deployed this application to vercel app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
