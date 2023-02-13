@@ -2,14 +2,14 @@
 
 Expense tracker is a react application to track the expenditures
 
-Features:
-Add expenses and has graphical visualisation of the expenses
+# Features:
+Add expenses and has graphical visualisation of the expenses.\
 Responsive web application
 
 # Live Demo:
-Link:(https://expense-tracker-tau-one.vercel.app/)
+Link:https://expense-tracker-tau-one.vercel.app/
 
-Deployment:
+# Deployment:
 Deployed this application to vercel app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
